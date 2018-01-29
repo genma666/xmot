@@ -8,6 +8,7 @@ function init() {
     lock = 0;
     switchLock = 0;
     timeout = 180;
+    forceTrade = 0;
 
     $('.container').css('width', '1401px');
     $('.chart').css('padding-left', '100px');
